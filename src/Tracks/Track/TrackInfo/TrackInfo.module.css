@@ -1,0 +1,27 @@
+.TrackInfo {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 240px;
+    margin-right: 20px;
+}
+
+.TrackInfoInfo {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.TrackInfoInfo span {
+    width: 120px;
+}
+
+.TrackInfoImg {
+    margin-right: 10px;
+}
+
+.TrackInfoImg img {
+    width: 100px;
+    height: 90px;
+    align-self: center;
+}

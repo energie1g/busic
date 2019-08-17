@@ -1,0 +1,14 @@
+header, nav {
+    margin: 0;
+    display: initial;
+}
+
+nav {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none !important;
+}

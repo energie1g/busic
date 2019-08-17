@@ -1,0 +1,34 @@
+.Audio {
+    outline: none;
+    border: none;
+    margin-right: 25px;
+  }
+  
+  .Audio:focus,
+  .Audio:hover {
+    outline: none;
+    border: none;
+  }
+
+  .AudioPlayer {
+      display: flex;
+  }
+
+  .SaveTrack {
+      align-self: center;
+      cursor: pointer;
+  }
+
+  .NoPreview {
+    display: flex;
+  }
+
+  .NoPreviewNotice {
+    width: 300px;
+    margin-right: 25px;
+  }
+
+  .NoPreviewNotice p {
+    align-self: center;
+    text-align: center;
+  }
