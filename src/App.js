@@ -1,7 +1,7 @@
 import React from "react";
 import classes from "./App.module.css";
-import Navigation from "./Navigation/Navigation";
-import Tracks from "./Tracks/Tracks";
+import Navigation from "./componenets/Navigation/Navigation";
+import Tracks from './componenets/Tracks/Tracks'
 import Button from "./componenets/UI/Button/Button";
 import { BrowserRouter, Route } from "react-router-dom";
 import ls from "local-storage";

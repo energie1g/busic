@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import classes from "./Tracks.module.css";
 import Track from "./Track/Track";
-import defaultImg from "../assets/images/default.png";
+import defaultImg from "../../assets/images/default.png";
 import { Pagination } from 'semantic-ui-react'
 
 export default class Tracks extends Component {
